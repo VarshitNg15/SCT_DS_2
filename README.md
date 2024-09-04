@@ -6,6 +6,7 @@ This project aims to predict the survival of Titanic passengers using various ma
 
 Files
 
+- task2.py: The main program that deals with the analysis of the data.
 - train.csv: Training dataset with features and survival labels.
 - test.csv: Testing dataset with features only (used for predictions).
 
